@@ -1,0 +1,14 @@
+# Exclude everything except what maintained by hand
+/*
+!/src/
+!/inc/
+!/res/
+!CMakeLists.txt
+!.gitignore
+!README.md
+!LICENSE
+
+# Ignore backup files
+/src/*~
+/inc/*~
+/res/*~

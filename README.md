@@ -26,7 +26,7 @@ When the command above finishes successfully, type
 cmake --build build --config Release --target install
 ```
 
-You will get Five-in-a-Row.exe in the bin\Release directory.
+You will get Five-in-a-Row.exe in the bin\Release directory. The pre-built binaries can be download here: [execute files](https://github.com/YiGeeker/Five-in-a-Row_MFC/releases)
 
 ## License ##
 

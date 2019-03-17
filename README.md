@@ -5,7 +5,7 @@ It is a simple Five-in-a-Row game written in MFC.
 ## How to build ##
 
 This project use cmake build system. First of all, you should install
-MSVC 11 or later with MFC and have cmake execute file. Change to the
+MSVC 11 or later with MFC and have cmake executable file. Change to the
 directory where *CMakeLists.txt* exists, and type in command line:
 
 ``` console
@@ -26,7 +26,7 @@ When the command above finishes successfully, type
 cmake --build build --config Release --target install
 ```
 
-You will get Five-in-a-Row.exe in the bin\Release directory. The pre-built binaries can be download here: [execute files](https://github.com/YiGeeker/Five-in-a-Row_MFC/releases)
+You will get Five-in-a-Row.exe in the bin\Release directory. The pre-built binaries can be download here: [executable files](https://github.com/YiGeeker/Five-in-a-Row_MFC/releases)
 
 ## License ##
 
